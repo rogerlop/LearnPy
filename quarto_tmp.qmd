@@ -1,8 +1,6 @@
 ---
 title: "matplotlib demo"
-format:
-  html:
-    code-fold: true
+format: hugo-md
 jupyter: python3
 ---
 

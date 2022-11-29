@@ -1,0 +1,7 @@
+pandas
+matplotlib
+plotly
+numpy
+jupyter
+requestspip
+
