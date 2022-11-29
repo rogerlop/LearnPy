@@ -3,5 +3,6 @@ matplotlib
 plotly
 numpy
 jupyter
-requestspip
+requests
+json
 
