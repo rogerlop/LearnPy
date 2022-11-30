@@ -9,8 +9,6 @@ response = requests.get(URL)
 
 
 
-data = json.loads(response.content.decode(
- "utf-8"
- ))
+data = json.loads(response.content.decode("utf-8"))
 
 print(data)
